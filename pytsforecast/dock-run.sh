@@ -1,0 +1,1 @@
+docker run --rm -p 8801:8801 -v %cd%:/opt/app ppeng1029/pytsforecast:v0
